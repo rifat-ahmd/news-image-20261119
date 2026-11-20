@@ -6,9 +6,9 @@
 
 Built for the make.fun bounty [Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119).
 
-35 stories from Thursday 19 November 2026, each checked in two sources: four drawn lead stories
+36 stories from Thursday 19 November 2026, each checked in two sources: four drawn lead stories
 (Trump–Xi–Putin summit, the ICJ's Myanmar genocide ruling, Anthropic's Nasdaq debut, GTA VI's release),
-14 drawn tiles grouped by region (Asia, Middle East, Europe, Americas, Africa) and 17 one-line briefs.
+14 drawn tiles grouped by region (Asia, Middle East, Europe, Americas, Africa) and 18 one-line briefs, a key-number strip and a date check.
 
 - `page.html`: the front page, with original inline SVG drawings
 - `render.py`: renders it to `entry.png` (1024x1024) with headless Chrome + Pillow
